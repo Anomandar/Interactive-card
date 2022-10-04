@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Github URL: [Github](https://github.com/Bill-Adepoju/Interactive-card)
-- Live Site URL: [Live site](https://bill-adepoju.github.io/Interactive-card/)
+- Github URL: [Github](https://github.com/Anomandar/Interactive-card)
+- Live Site URL: [Live site](https://anomandar.github.io/Interactive-card/)
 
 ## My process
 
